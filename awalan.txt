@@ -1,0 +1,5 @@
+halo semua ini adalah pertama kali saya menggunakan github dan sedang belajar bagaimana cara menggunakannya
+
+berikut adalah resolusi saya hingga pada akhir tahun ini:
+- dapat menggunakan github dan git
+- memperkuat pemahaman algoritma dan data structure
